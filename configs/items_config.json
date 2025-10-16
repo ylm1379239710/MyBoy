@@ -1,0 +1,59 @@
+{
+  "items": {
+    "面包": {
+      "description": "普通的面包，能填饱肚子",
+      "price": 10,
+      "effects": {
+        "hunger": 20,
+        "mood": 5
+      }
+    },
+    "汉堡": {
+      "description": "美味的汉堡，恢复更多饱腹度",
+      "price": 20,
+      "effects": {
+        "hunger": 45,
+        "mood": 11
+      }
+    },
+    "超级大餐": {
+      "description": "豪华大餐，恢复大量饱腹度，还能获得经验",
+      "price": 50,
+      "effects": {
+        "hunger": 100,
+        "mood": 25,
+        "exp": 20
+      }
+    },
+    "矿泉水": {
+      "description": "普通的矿泉水，解渴",
+      "price": 5,
+      "effects": {
+        "thirst": 20
+      }
+    },
+    "果汁": {
+      "description": "香甜的果汁，恢复更多饥渴度",
+      "price": 10,
+      "effects": {
+        "thirst": 42,
+        "mood": 5
+      }
+    },
+    "能量饮料": {
+      "description": "提神的能量饮料，恢复饥渴度并增加心情",
+      "price": 20,
+      "effects": {
+        "thirst": 60,
+        "mood": 15
+      }
+    },
+    "经验药水": {
+      "description": "直接增加经验值的药水",
+      "price": 50,
+      "effects": {
+        "exp": 50
+      }
+    }
+  }
+}

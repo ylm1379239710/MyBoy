@@ -1,0 +1,214 @@
+{
+  "careers": {
+    "程序员": {
+      "description": "编写代码，解决技术问题，开发软件应用",
+      "requirements": {
+        "intelligence": 180,
+        "dexterity": 150,
+        "wisdom": 120
+      },
+      "salary": 12000,
+      "experience": 2000
+    },
+    "医生": {
+      "description": "救死扶伤，诊断疾病，照顾病人",
+      "requirements": {
+        "intelligence": 225,
+        "wisdom": 180,
+        "charisma": 165
+      },
+      "salary": 15000,
+      "experience": 2500
+    },
+    "教师": {
+      "description": "传授知识，教育学生，培养下一代",
+      "requirements": {
+        "intelligence": 165,
+        "charisma": 210,
+        "wisdom": 195
+      },
+      "salary": 8000,
+      "experience": 1500
+    },
+    "设计师": {
+      "description": "设计美观实用的产品，创造视觉体验",
+      "requirements": {
+        "wisdom": 225,
+        "intelligence": 150,
+        "dexterity": 135
+      },
+      "salary": 10000,
+      "experience": 1800
+    },
+    "工程师": {
+      "description": "设计和构建各种工程设施，解决实际问题",
+      "requirements": {
+        "intelligence": 195,
+        "dexterity": 180,
+        "strength": 150
+      },
+      "salary": 13000,
+      "experience": 2200
+    },
+    "艺术家": {
+      "description": "创作艺术作品，表达情感和思想",
+      "requirements": {
+        "charisma": 255,
+        "wisdom": 120,
+        "dexterity": 135
+      },
+      "salary": 7000,
+      "experience": 1200
+    },
+    "科学家": {
+      "description": "进行科学研究，探索未知领域",
+      "requirements": {
+        "intelligence": 270,
+        "wisdom": 240,
+        "constitution": 180
+      },
+      "salary": 18000,
+      "experience": 3000
+    },
+    "企业家": {
+      "description": "创办和经营企业，承担风险",
+      "requirements": {
+        "intelligence": 195,
+        "charisma": 210,
+        "wisdom": 135
+      },
+      "salary": 20000,
+      "experience": 3500
+    },
+    "运动员": {
+      "description": "进行体育训练和比赛，保持身体健康",
+      "requirements": {
+        "strength": 255,
+        "constitution": 240,
+        "dexterity": 210
+      },
+      "salary": 14000,
+      "experience": 2000
+    },
+    "律师": {
+      "description": "提供法律咨询，代表客户打官司",
+      "requirements": {
+        "intelligence": 240,
+        "charisma": 225,
+        "wisdom": 195
+      },
+      "salary": 16000,
+      "experience": 2800
+    },
+    "厨师": {
+      "description": "烹饪美食，满足人们的味蕾",
+      "requirements": {
+        "dexterity": 225,
+        "wisdom": 195,
+        "constitution": 150
+      },
+      "salary": 9000,
+      "experience": 1500
+    },
+    "警察": {
+      "description": "维护社会治安，保护人民安全",
+      "requirements": {
+        "strength": 235,
+        "constitution": 220,
+        "wisdom": 195
+      },
+      "salary": 10000,
+      "experience": 2000
+    },
+    "消防员": {
+      "description": "扑灭火灾，救援被困人员",
+      "requirements": {
+        "strength": 255,
+        "constitution": 270,
+        "dexterity": 210
+      },
+      "salary": 11000,
+      "experience": 2200
+    },
+    "记者": {
+      "description": "收集和报道新闻，传递信息",
+      "requirements": {
+        "charisma": 210,
+        "wisdom": 195,
+        "dexterity": 165
+      },
+      "salary": 8500,
+      "experience": 1600
+    },
+    "建筑师": {
+      "description": "设计建筑物，兼顾美观和实用",
+      "requirements": {
+        "intelligence": 225,
+        "wisdom": 225,
+        "dexterity": 195
+      },
+      "salary": 14000,
+      "experience": 2500
+    },
+    "音乐家": {
+      "description": "创作和演奏音乐，带来艺术享受",
+      "requirements": {
+        "charisma": 270,
+        "dexterity": 240,
+        "wisdom": 180
+      },
+      "salary": 8000,
+      "experience": 1400
+    },
+    "作家": {
+      "description": "创作文学作品，表达思想和情感",
+      "requirements": {
+        "intelligence": 210,
+        "wisdom": 255,
+        "constitution": 195
+      },
+      "salary": 7500,
+      "experience": 1600
+    },
+    "飞行员": {
+      "description": "驾驶飞机，运送乘客和货物",
+      "requirements": {
+        "intelligence": 225,
+        "constitution": 240,
+        "dexterity": 270
+      },
+      "salary": 22000,
+      "experience": 3000
+    },
+    "宇航员": {
+      "description": "进行太空探索，执行航天任务",
+      "requirements": {
+        "intelligence": 255,
+        "constitution": 270,
+        "dexterity": 255
+      },
+      "salary": 30000,
+      "experience": 4000
+    },
+    "心理学家": {
+      "description": "研究心理活动，帮助人们解决心理问题",
+      "requirements": {
+        "intelligence": 225,
+        "wisdom": 255,
+        "charisma": 240
+      },
+      "salary": 11000,
+      "experience": 2200
+    },
+    "农民": {
+      "description": "种植农作物，饲养家畜，提供食物",
+      "requirements": {
+        "strength": 150,
+        "constitution": 150,
+        "wisdom": 150
+      },
+      "salary": 7000,
+      "experience": 1100
+    }
+  }
+}

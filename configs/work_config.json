@@ -1,0 +1,83 @@
+{
+  "work_items": {
+    "奶粉钱": {
+      "description": "给你奶粉钱",
+      "min_level": 1,
+      "max_level": 3,
+      "effects": {
+        "strength": 1,
+        "dexterity": 1,
+        "constitution": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "money_reward": 10,
+      "exp_reward": 10,
+      "mood_change": -3
+    },
+    "零花钱": {
+      "description": "跟爸爸妈妈要零花钱",
+      "min_level": 4,
+      "max_level": 25,
+      "effects": {
+        "strength": 1,
+        "dexterity": 1,
+        "constitution": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "money_reward": 15,
+      "exp_reward": 15,
+      "mood_change": -3
+    },
+    "家务劳动": {
+      "description": "帮助做简单家务",
+      "min_level": 6,
+      "max_level": 65,
+      "effects": {
+        "strength": 1,
+        "dexterity": 1,
+        "constitution": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "money_reward": 20,
+      "exp_reward": 20,
+      "mood_change": -3
+    },
+    "兼职打工": {
+      "description": "做简单的兼职工作",
+      "min_level": 18,
+      "max_level": 65,
+      "effects": {
+        "strength": 2,
+        "constitution": 2
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "money_reward": 25,
+      "exp_reward": 25,
+      "mood_change": -5
+    },
+    "专业兼职": {
+      "description": "全职工作获得稳定收入",
+      "min_level": 22,
+      "max_level": 65,
+      "effects": {
+        "wisdom": 2,
+        "intelligence": 2,
+        "charisma": 2
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "money_reward": 30,
+      "exp_reward": 30,
+      "mood_change": -8
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "exercise_items": {
+    "乱爬": {
+      "description": "适合幼儿的简单活动",
+      "min_level": 1,
+      "max_level": 3,
+      "effects": {
+        "constitution": 1,
+        "dexterity": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "exp_reward": 10,
+      "mood_change": 8
+    },
+    "散步": {
+      "description": "轻松的散步，恢复心情和能量",
+      "min_level": 4,
+      "max_level": 999,
+      "effects": {
+        "strength": 1,
+        "constitution": 1,
+        "dexterity": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "exp_reward": 10,
+      "mood_change": 10
+    },
+    "户外游戏": {
+      "description": "在户外进行各种活动",
+      "min_level": 4,
+      "max_level": 999,
+      "effects": {
+        "strength": 2,
+        "constitution": 2,
+        "dexterity": 2
+      },
+      "energy_cost": 8,
+      "hunger_cost": 8,
+      "thirst_cost": 8,
+      "exp_reward": 15,
+      "mood_change": 10
+    },
+    "体育锻炼": {
+      "description": "有规律的体育活动",
+      "min_level": 12,
+      "max_level": 999,
+      "effects": {
+        "strength": 3,
+        "constitution": 4,
+        "dexterity": 2
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "exp_reward": 25,
+      "mood_change": 5
+    },
+    "瑜伽": {
+      "description": "修身养性，提高智慧和心情",
+      "min_level": 7,
+      "max_level": 999,
+      "effects": {
+        "wisdom": 3,
+        "dexterity": 2
+      },
+      "energy_cost": 10,
+      "hunger_cost": 10,
+      "thirst_cost": 10,
+      "exp_reward": 25,
+      "mood_change": 15
+    }
+  }
+}

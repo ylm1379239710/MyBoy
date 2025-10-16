@@ -1,0 +1,59 @@
+{
+  "play_items": {
+    "积木游戏": {
+      "description": "开发创造力的积木游戏",
+      "min_level": 1,
+      "max_level": 999,
+      "effects": {
+        "wisdom": 1,
+        "dexterity": 1,
+        "intelligence": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "exp_reward": 10,
+      "mood_change": 12
+    },
+    "卡牌游戏": {
+      "description": "策略游戏，锻炼思维能力",
+      "min_level": 4,
+      "max_level": 999,
+      "effects": {
+        "intelligence": 3,
+        "wisdom": 2
+      },
+      "energy_cost": 8,
+      "mood_change": 15,
+      "exp_reward": 10
+    },
+    "电子游戏": {
+      "description": "玩电子游戏放松心情",
+      "min_level": 6,
+      "max_level": 999,
+      "effects": {
+        "dexterity": 2,
+        "wisdom": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "exp_reward": 15,
+      "mood_change": 15
+    },
+    "社交活动": {
+      "description": "与朋友一起活动",
+      "min_level": 12,
+      "max_level": 999,
+      "effects": {
+        "charisma": 3,
+        "wisdom": 1
+      },
+      "energy_cost": 5,
+      "hunger_cost": 5,
+      "thirst_cost": 5,
+      "exp_reward": 20,
+      "mood_change": 20
+    }
+  }
+}
